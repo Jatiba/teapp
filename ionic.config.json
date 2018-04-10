@@ -1,0 +1,8 @@
+{
+  "name": "teapp",
+  "app_id": "88fbdc2c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
